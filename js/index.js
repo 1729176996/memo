@@ -373,6 +373,10 @@ $(function(){
                     }
                 });
             },
+            getBrowser:function(){
+                var browser = getBrowser();
+                weui.alert('现在页面是'+browser);
+            },
             submit:function(){
                 
             }
