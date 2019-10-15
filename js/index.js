@@ -360,6 +360,7 @@ $(function(){
             },
             //weui gallery图片预览
             weuiGallery:function(){
+                var url = 'https://github.com/1729176996/memo/images/39eea1ba4602ab46fc331fb7b0c9a577.jpg';
                 var gallery = weui.gallery(url, {
                     className: 'custom-classname',
                     onDelete: function(){
