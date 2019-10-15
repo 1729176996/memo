@@ -360,7 +360,7 @@ $(function(){
             },
             //weui gallery图片预览
             weuiGallery:function(){
-                var url = 'https://github.com/1729176996/memo/images/39eea1ba4602ab46fc331fb7b0c9a577.jpg';
+                var url = 'https://himg2.huanqiucdn.cn/attachment2010/2019/1014/20191014050120338.jpg';
                 var gallery = weui.gallery(url, {
                     className: 'custom-classname',
                     onDelete: function(){
